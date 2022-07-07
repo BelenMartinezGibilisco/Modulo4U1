@@ -13,7 +13,7 @@ const NovedadesPage = (props) => {
               alias non.
             </p>
               
-        <section/>
+        </section>
         );
     }
     
